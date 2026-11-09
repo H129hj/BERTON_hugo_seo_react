@@ -1,0 +1,5 @@
+[
+  { "slug": "risotto-champignons", "nom": "Risotto aux champignons", "description": "Riz carnaroli, cèpes et parmesan affiné 24 mois.", "prix": 16 },
+  { "slug": "magret-de-canard", "nom": "Magret de canard", "description": "Magret rôti, purée de patate douce et jus au miel.", "prix": 21 },
+  { "slug": "tarte-citron", "nom": "Tarte au citron", "description": "Pâte sablée, crème citron et meringue brûlée.", "prix": 8 }
+]
